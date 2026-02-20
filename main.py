@@ -273,5 +273,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-    #python bruteforcer.py --builtin --algo md5 sha1 --alphabet "0123456789" --min-len 6 --max-len 6
-    #python bruteforcer.py --builtin --algo md5 sha1 --alphabet "abcdefghijklmnopqrstuvwxyz" --min-len 5 --max-len 5 --processes 4
+    #python main.py --builtin --algo md5 sha1 --alphabet "0123456789" --min-len 6 --max-len 6
+    #python main.py --builtin --algo md5 sha1 --alphabet "abcdefghijklmnopqrstuvwxyz" --min-len 5 --max-len 5 --processes 4
